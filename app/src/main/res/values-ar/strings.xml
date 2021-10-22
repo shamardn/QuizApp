@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">اختبار</string>
+    <string name="imgRight">https://unsplash.com/@gergilgad</string>
+    <string name="title">اختبار في البرمجة</string>
+    <string name="info">"ان الغرض من البرمجة هو إيجاد سلسة من التعليمات التي ستؤدي إلى تمام أداء المهمة في كثير من الأحيان لحل مشكلة معينة "</string>
+    <string name="name">"الاسم : "</string>
+    <string name="tip">أكتب اسمك هنا</string>
+    <string name="gender">"النوع : "</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="start">إبدأ</string>
+    <string name="startQuiz">"اختار الاجابة الصحيحة "</string>
+    <string name="questionOne">هل هناك اكثر من طريقة لبرمجة لغز ما ؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="questionTwo">ما هي لغة برمجة الحاسوب؟</string>
+    <string name="spanish">اسباني</string>
+    <string name="english">انجليزي</string>
+    <string name="code">كود</string>
+    <string name="questionThree">ما هو فعل شيء ما مرارا وتكرارا؟</string>
+    <string name="repeat">التكرار</string>
+    <string name="loop">"حلقة "</string>
+    <string name="debugging">التصحيح</string>
+    <string name="questionFour">ما هو جزء البرنامج الذي لا يعمل بشكل صحيح؟</string>
+    <string name="bug">خلل برمجي</string>
+    <string name="breaks">كسر</string>
+    <string name="questionFive">من الممكن ان نستخدم البرمجة في :</string>
+    <string name="robots">برمجة الروبوتات</string>
+    <string name="others">"مواقع والعاب وتطبيقات "</string>
+    <string name="none">لا شئ مما سبق</string>
+    <string name="questionSix">كيف يمكنك كتابة الكلمة (computer science) بطريقة camel case</string>
+    <string name="answer">أجب هنا</string>
+    <string name="submit">إرسال</string>
+    <string name="welcomeMr">أهلا بالسيد :</string>
+    <string name="welcomeMs">"أهلا بالسيدة  : "</string>
+    <string name="yourScore">نتيجة اختبارك :</string>
+    <string name="thankyou">شكرا لك</string>
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="imgRight">https://unsplash.com/@gergilgad</string>
+    <string name="title">The Programming Quiz</string>
+    <string name="info">The purpose of programming is to find a sequence
+        of instructions that will automate the performance of a task often
+        for solving a given problem.</string>
+    <string name="name">Name : </string>
+    <string name="tip">Type Your Name Here </string>
+    <string name="gender">Gender : </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="start">Start</string>
+    <string name="startQuiz">Choose the correct answer from the given options:</string>
+    <string name="questionOne">"Is there more than one way to code a puzzle ?"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="questionTwo">"What is the language of computer programming ?"</string>
+    <string name="spanish">Spanish</string>
+    <string name="english">English</string>
+    <string name="code">Code</string>
+    <string name="questionThree">"What is the action of doing something over and over again ?"</string>
+    <string name="repeat">Repeat</string>
+    <string name="loop">Loop</string>
+    <string name="debugging">Debugging</string>
+    <string name="questionFour">"What is the part of the program that does not work correctly ?"</string>
+    <string name="bug">Bug</string>
+    <string name="breaks">Break</string>
+    <string name="questionFive">"Coding can be used to ?"</string>
+    <string name="robots">"Program robots"</string>
+    <string name="others">"Create websites, games and apps"</string>
+    <string name="none">None of the above</string>
+    <string name="questionSix">How can you Write the word (computer science) in camel case ?</string>
+    <string name="answer">answer here</string>
+    <string name="submit">Submit</string>
+    <string name="welcomeMr">Welcome Mr." " </string>
+    <string name="welcomeMs">Welcome Ms." " </string>
+    <string name="yourScore">Your score :" "</string>
+    <string name="thankyou">Thank you .</string>
+
+</resources>
